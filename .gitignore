@@ -1,0 +1,8 @@
+# image files
+*.jpeg 
+*.jpg 
+*.png 
+#presentation 
+*.pptx 
+#ipython checkpoints 
+/.ipynb_checkpoints 
